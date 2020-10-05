@@ -15,6 +15,15 @@ $ npm install payzi-time
 ```js
 const payzi_time = require('payzi-time');
 payzi_time(123456789);
+/*
+{
+   days: 1,
+   hours: 10,
+   minutes: 17,
+   seconds: 36,
+   milliseconds: 789 
+}
+*/
 ```
 
 # Проекты
