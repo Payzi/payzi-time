@@ -1,0 +1,24 @@
+{
+  "name": "payzi-time",
+  "version": "0.0.1",
+  "description": "Время из милисекунд в минуты/часы/дни",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Payzi/payzi-time.git"
+  },
+  "keywords": [
+    "time",
+    "payzibot",
+    "payzi"
+  ],
+  "author": "Payz_123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Payzi/payzi-time/issues"
+  },
+  "homepage": "https://github.com/Payzi/payzi-time#readme"
+}
