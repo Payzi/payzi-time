@@ -1,5 +1,7 @@
 # payzi-time
 
+[![](https://nodei.co/npm/payzi-time.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/payzi-time/)
+
 > Пакет, для перевода миллисекунд.
 
 
